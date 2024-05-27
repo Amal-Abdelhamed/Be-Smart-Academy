@@ -8706,6 +8706,9 @@ button.bg-dark:focus {
   .img-course {
     height: 205px;
   }
+  .card-body-h{
+    height: 250px;
+  }
   .m-lg-0 {
     margin: 0 !important;
   }
